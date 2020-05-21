@@ -1,0 +1,7 @@
+funct = 'branin'
+NP = 10
+max_iter = 30
+bounds = [[-5,10],[0,15]]
+F = 0.8
+CR = 0.8
+
